@@ -8,10 +8,10 @@ public class MakePost {
 	}
 	public static void editPost()
 	{
-	System.out.println("Edit Post Successfully");
+		System.out.println("Edit Post Successfully");
 	}
 	public static void readPost()
 	{
-	System.out.println("Reading Post");
+		System.out.println("Reading Post");
 	}
 }
