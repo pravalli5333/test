@@ -6,4 +6,7 @@ public class ProfileController {
 
 	}
 
+	public void saveProfile() {
+		System.out.println("saving profile implemented");
+	}
 }
