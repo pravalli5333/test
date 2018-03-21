@@ -12,7 +12,6 @@ public class CommentsController {
 
 	String mobile = "89898989";
 
-	void method() {
 		if (mobile != null) {
 			System.out.println("mobile no valid");
 		} else {
