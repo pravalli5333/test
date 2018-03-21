@@ -18,6 +18,13 @@ public class CommentsController {
 			System.out.println("mobile no not valid");
 		}
 
+		String email = "ha@ha.com";
+
+		if (mobile != null) {
+			System.out.println("ha ha valid");
+		} else {
+			System.out.println("ha ha ha ha ha not valid y yyy");
+		}
 		System.out.println("hello welcome to comments ");
 
 	}
