@@ -7,5 +7,6 @@ public class CommentsController {
 	}
 	public CommentsController() {
 		System.out.println("default constructor level");
+		System.out.println("zero argument constructor");
 	}
 }
