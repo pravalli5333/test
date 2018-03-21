@@ -19,7 +19,6 @@ public class CommentsController {
 		}
 
 		String email = "ha@ha.com";
-
 		if (mobile != null) {
 			System.out.println("ha ha valid");
 		} else {
