@@ -4,7 +4,7 @@ public class CommentsController {
 	String name ="Raju";
 	void method() {
 		if(name != null){
-			System.out.println("name valid");
+			System.out.println("name is valid");
 		} else {
 			System.out.println("name is invalid");
 		}
