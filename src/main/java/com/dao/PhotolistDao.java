@@ -2,8 +2,8 @@ package com.dao;
 
 public class PhotolistDao {
 
-	public void updatephotolist(){
+	public void savephotos(){
 		System.out.println("photos");
+		
 	}
-
 }
