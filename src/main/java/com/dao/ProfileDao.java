@@ -10,6 +10,12 @@ public class ProfileDao {
 			System.out.println("not valid");
 		}
 				
+		String name="Yash";
+		if(name != null) {
+			System.out.println("name is valid");
+		} else {
+			System.out.println("name is invalid");
+		}
 		System.out.println("....");
 	}
 
