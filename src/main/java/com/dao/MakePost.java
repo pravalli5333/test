@@ -14,4 +14,8 @@ public class MakePost {
 	{
 		System.out.println("Reading Post");
 	}
+	public static void deletePost()
+	{
+		System.out.println("Deleting Post!....... haha its deleted");
+	}
 }
