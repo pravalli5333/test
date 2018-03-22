@@ -10,7 +10,7 @@ public class MakePost {
 	{
 		System.out.println("Edited Post Successfully");
 	}
-	public static void readPost()
+	public static void readingPost()
 	{
 		System.out.println("Reading Post");
 	}
