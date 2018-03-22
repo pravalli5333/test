@@ -8,7 +8,7 @@ public class MakePost {
 	}
 	public static void editPost()
 	{
-		System.out.println("Edit Post Successfully");
+		System.out.println("Edited Post Successfully");
 	}
 	public static void readPost()
 	{
