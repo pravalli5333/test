@@ -16,6 +16,7 @@ public class MakePost {
 	}
 	public static void deletePost()
 	{
+		System.out.println("This delete post is validated before deleting it");
 		System.out.println("Deleting Post!....... haha its deleted");
 	}
 }
