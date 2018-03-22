@@ -14,4 +14,10 @@ public class MakePost {
 	{
 		System.out.println("Reading Post");
 	}
+	public static void sharePost()
+	{
+		System.out.println("Sharing Post Successfully");
+
+	}
+
 }
