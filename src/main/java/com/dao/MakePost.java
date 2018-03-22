@@ -14,6 +14,10 @@ public class MakePost {
 	{
 		System.out.println("Reading Post");
 	}
+	public static void sharePost()
+	{
+		System.out.println("Sharing Post Successfully");
+	}
 	public static void deletePost()
 	{
 		System.out.println("This delete post is validated before deleting it");
